@@ -4,7 +4,7 @@
 	Plugin URI: http://www.wpfruits.com
 	Description: Business Opening Hours Plugin
 	Version: 1.0.0
-	Author: SketchThemes
+	Author: WPFruits
 	Author URI: http://www.wpfruits.com
 */
 class BizoHoursSettingPage
@@ -622,4 +622,4 @@ function bizohours_load_textdomain() {
 }
 add_action( 'plugins_loaded', 'bizohours_load_textdomain' );
 
-?>	
+?>
