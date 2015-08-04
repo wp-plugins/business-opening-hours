@@ -1,0 +1,20 @@
+
+/******FRONT CSS******/
+
+.bizoh-table { border-collapse: collapse; border-spacing: 0; border: 1px solid #ddd; margin-bottom: 20px; width: 100%; }
+.bizoh-table>thead:first-child>tr:first-child>th { border-top: 0; }
+.bizoh-table>thead>tr>td,
+.bizoh-table>thead>tr>th { border-bottom: 2px solid #ddd; vertical-align: bottom; }
+.bizoh-table>tbody>tr>td,
+.bizoh-table>tbody>tr>th,
+.bizoh-table>thead>tr>td,
+.bizoh-table>thead>tr>th,
+.bizoh-table > thead > tr > th,
+.bizoh-table > tbody > tr > th,
+.bizoh-table > thead > tr > td,
+.bizoh-table > tbody > tr > td { border: 1px solid #ddd; text-align: center; }
+
+.bizoh-table>tbody>tr>td,
+.bizoh-table>tbody>tr>th,
+.bizoh-table>thead>tr>td,
+.bizoh-table>thead>tr>th { border-top: 1px solid #ddd; line-height: 1.5; padding: 8px; vertical-align: top; }
