@@ -1,11 +1,11 @@
 <?php
 /*
 	Plugin Name: Business Hours Lite
-	Plugin URI: http://www.wpfruits.com
+	Plugin URI: http://www.sketchthemes.com
 	Description: Business Opening Hours Plugin
-	Version: 1.0.0
-	Author: WPFruits
-	Author URI: http://www.wpfruits.com
+	Version: 1.0.1
+	Author: SketchThemes
+	Author URI: http://www.sketchthemes.com
 */
 class BizoHoursSettingPage
 {
@@ -34,7 +34,8 @@ class BizoHoursSettingPage
 			__('Business Hours', 'bizo-hours'), 
 			'manage_options', 
 			'bizohours-setting-admin', 
-			array( $this, 'bizohours_admin_page' )
+			array( $this, 'bizohours_admin_page' ),
+			plugins_url( 'images/icon.png',__FILE__)
 		);
 	}
 
@@ -297,6 +298,14 @@ class BizoHoursSettingPage
 		);  
 
 		add_settings_field(
+			'time_zone', // ID
+			__('Select Timezone','bizo-hours'), // Title 
+			array( $this, 'bizohours_time_zone_callback' ), // Callback
+			'bizohours-setting-admin', // Page
+			'setting_section_id' // Section           
+		);
+
+		add_settings_field(
 			'time_format', // ID
 			__('Time Format','bizo-hours'), // Title 
 			array( $this, 'bizohours_time_format_callback' ), // Callback
@@ -398,6 +407,9 @@ class BizoHoursSettingPage
 		if( isset( $input['timeformat'] ) )
 			$new_input['timeformat'] = sanitize_text_field( $input['timeformat'] );
 
+		if( isset( $input['timezone'] ) )
+			$new_input['timezone'] = sanitize_text_field( $input['timezone'] );
+
 		if( isset( $input['mondayfrom'] ) )
 			$new_input['mondayfrom'] = sanitize_text_field( $input['mondayfrom'] );
 		if( isset( $input['mondayto'] ) )
@@ -453,6 +465,20 @@ class BizoHoursSettingPage
 	/** 
 	 * Get the settings option array and print one of its values
 	 */
+
+	public function bizohours_time_zone_callback()
+	{
+		$bizohours_options = get_option( "bizohours_options" );
+		$timezone = $bizohours_options["timezone"];
+		if(empty($timezone))
+			$timezone = 'UTC';
+		$date = new DateTime('now', new DateTimeZone($timezone));
+		$localtime = $date->format('h:i:s a');
+		echo '<select id="timezone" name="bizohours_options[timezone]">'.wp_timezone_choice($timezone).'</select><br>';
+		echo "Local time is $localtime.";
+
+	}
+
 	public function bizohours_time_format_callback()
 	{
 		$bizohours_options = get_option( "bizohours_options" );
@@ -584,7 +610,12 @@ if( is_admin() )
 /**** Include Front Style ****/
 function bizohours_front_styles() {
 	wp_enqueue_script('jquery');
-	include('js/front-custom-js.php');
+	echo '<script type="text/javascript">
+	jQuery(document).ready(function() {
+	"use strict";
+		jQuery("tr:contains(Close)").css("color", "#ff0000");
+	});	
+	</script>';	
 	wp_enqueue_style('bizohours-style-front', plugins_url('css/bizo-hours.css',__FILE__), false, '1.0.0' );
 }
 add_action( 'wp_footer', 'bizohours_front_styles' );

@@ -30,23 +30,29 @@ class BizoHours_Widget extends WP_Widget {
 			echo $args['before_title'] . apply_filters( 'widget_title', $instance['title'] ). $args['after_title'];
 		}
 		$bizohours_options = get_option( "bizohours_options" );
-		$output =    
-		'<table class="bizoh-table bizoh-widget">
+		$bizoh_currentday_style = 'style="background-color:'.$bizohours_options["bizohbgcolor"].';color:'.$bizohours_options["bizohfontcolor"].';"';
+		$timezone = $bizohours_options["timezone"];
+		if(empty($timezone))
+			$timezone = 'UTC';
+		
+		$date = new DateTime('now', new DateTimeZone($timezone));
+		$currentday = $date->format('w');
+		?>
+		<table class="bizoh-table bizoh-widget">
 			<thead>
-				<tr><th>'. __('Day', 'bizo-hours') . '</th><th>'. __('From', 'bizo-hours') . '</th><th>'. __('To', 'bizo-hours') . '</th></tr>
+				<tr><th><?php _e('Day', 'bizo-hours'); ?></th><th><?php _e('From', 'bizo-hours'); ?></th><th><?php _e('To', 'bizo-hours'); ?></th></tr>
 			</thead>
 			<tbody>
-				<tr class="monday"><td>'. __('Monday', 'bizo-hours') . '</td><td>'. $bizohours_options["mondayfrom"] .'</td><td>'. $bizohours_options["mondayto"] .'</td></tr>
-				<tr class="tuesday"><td>'. __('Tuesday', 'bizo-hours') . '</td><td>'. $bizohours_options["tuesdayfrom"] .'</td><td>'. $bizohours_options["tuesdayto"] .'</td></tr>
-				<tr class="wednesday"><td>'. __('Wednesday', 'bizo-hours') . '</td><td>'. $bizohours_options["wednesdayfrom"] .'</td><td>'. $bizohours_options["wednesdayto"] .'</td></tr>
-				<tr class="thursday"><td>'. __('Thursday', 'bizo-hours') . '</td><td>'. $bizohours_options["thursdayfrom"] .'</td><td>'. $bizohours_options["thursdayto"] .'</td></tr>
-				<tr class="friday"><td>'. __('Friday', 'bizo-hours') . '</td><td>'. $bizohours_options["fridayfrom"] .'</td><td>'. $bizohours_options["fridayto"] .'</td></tr>
-				<tr class="saturday"><td>'. __('Saturday', 'bizo-hours') . '</td><td>'. $bizohours_options["saturdayfrom"] .'</td><td>'. $bizohours_options["saturdayto"] .'</td></tr>
-				<tr class="sunday"><td>'. __('Sunday', 'bizo-hours') . '</td><td>'. $bizohours_options["sundayfrom"] .'</td><td>'. $bizohours_options["sundayto"] .'</td></tr>
+				<tr <?php if($currentday == 1){ echo $bizoh_currentday_style;} ?>><td><?php _e('Monday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["mondayfrom"]; ?></td><td><?php echo $bizohours_options["mondayto"]; ?></td></tr>
+				<tr <?php if($currentday == 2){ echo $bizoh_currentday_style;} ?>><td><?php _e('Tuesday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["tuesdayfrom"]; ?></td><td><?php echo $bizohours_options["tuesdayto"]; ?></td></tr>
+				<tr <?php if($currentday == 3){ echo $bizoh_currentday_style;} ?>><td><?php _e('Wednesday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["wednesdayfrom"]; ?></td><td><?php echo $bizohours_options["wednesdayto"]; ?></td></tr>
+				<tr <?php if($currentday == 4){ echo $bizoh_currentday_style;} ?>><td><?php _e('Thursday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["thursdayfrom"]; ?></td><td><?php echo $bizohours_options["thursdayto"]; ?></td></tr>
+				<tr <?php if($currentday == 5){ echo $bizoh_currentday_style;} ?>><td><?php _e('Friday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["fridayfrom"]; ?></td><td><?php echo $bizohours_options["fridayto"]; ?></td></tr>
+				<tr <?php if($currentday == 6){ echo $bizoh_currentday_style;} ?>><td><?php _e('Saturday', 'bizo-hours'); ?></td><td><?php echo $bizohours_options["saturdayfrom"]; ?></td><td><?php echo $bizohours_options["saturdayto"]; ?></td></tr>
+				<tr <?php if($currentday == 0){ echo $bizoh_currentday_style;} ?>><td><?php _e('Sunday', 'bizo-hours'); ?></td><td> <?php echo $bizohours_options["sundayfrom"]; ?></td><td><?php echo $bizohours_options["sundayto"]; ?></td></tr>
 		    </tbody>
-		</table>';
-		
-		_e( $output, 'bizo-hours' );
+		</table>
+		<?php
 		echo $args['after_widget'];
 	}
 
@@ -109,7 +115,13 @@ class BizoHours_Widget extends WP_Widget {
 		), $args );
 
 		$bizoh_currentday_style = 'style="background-color:'.$args["bizohbgcolor"].';color:'.$args["bizohfontcolor"].';"';
-		$currentday = date("w");
+		$bizohours_options = get_option( "bizohours_options" );
+		$timezone = $bizohours_options["timezone"];
+		if(empty($timezone))
+			$timezone = 'UTC';
+		
+		$date = new DateTime('now', new DateTimeZone($timezone));
+		$currentday = $date->format('w');
 		?>
 		<h2><?php echo $args['title']; ?></h2>
 		<table class="bizoh-table">
