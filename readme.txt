@@ -39,6 +39,18 @@ So go ahead guys and install it now!
 * Widget & Shortcode
 So go ahead guys and install it now!
 
+= Business Opening Hours Pro =
+* Business Opening Hours - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/">DEMO</a>
+* Business Opening Hours Display Type All Days - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/all-days/">DEMO</a>
+* Business Opening Hours Display Type Weekdays - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/weekdays/">DEMO</a>
+* Business Opening Hours Display Type Open Close - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/open-close/">DEMO</a>
+* Business Opening Hours Announcement Popup Blur Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-blur-effect/">DEMO</a>
+* Business Opening Hours Announcement Popup Slide Left Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-left-effect/">DEMO</a>
+* Business Opening Hours Announcement Popup Slide Down Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-down-effect/">DEMO</a>
+* Business Opening Hours Announcement Popup Fade Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-fade/">DEMO</a>
+* Business Opening Hours Current Day Highlight - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/day-highlight/">DEMO</a>
+
+
 == Installation ==
 1. Upload `business-opening-hours-lite` to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress
