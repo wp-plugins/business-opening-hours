@@ -31,7 +31,7 @@ So go ahead guys and install it now!
 
 = Business Opening Hours Pro =
 
-* Business Opening Hours - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/">DEMO</a>
+* Business Opening Hours - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
 * Business Opening Hours Display Type All Days - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/all-days/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
