@@ -29,17 +29,8 @@ With its super rich and very useful next generation features, Business Opening H
 * Widget & Shortcode
 So go ahead guys and install it now!
 
-
-== Features ==
-* WordPress Default Time Format 
-* WordPress Default Weekdays Label
-* Display Closed Day
-* Opening Time and Closing Time
-* Highlight Current Day
-* Widget & Shortcode
-So go ahead guys and install it now!
-
 = Business Opening Hours Pro =
+
 * Business Opening Hours - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/">DEMO</a>
 * Business Opening Hours Display Type All Days - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/all-days/">DEMO</a>
 * Business Opening Hours Display Type Weekdays - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/weekdays/">DEMO</a>
@@ -49,6 +40,16 @@ So go ahead guys and install it now!
 * Business Opening Hours Announcement Popup Slide Down Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-down-effect/">DEMO</a>
 * Business Opening Hours Announcement Popup Fade Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-fade/">DEMO</a>
 * Business Opening Hours Current Day Highlight - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/day-highlight/">DEMO</a>
+
+
+== Features ==
+* WordPress Default Time Format 
+* WordPress Default Weekdays Label
+* Display Closed Day
+* Opening Time and Closing Time
+* Highlight Current Day
+* Widget & Shortcode
+So go ahead guys and install it now!
 
 
 == Installation ==
