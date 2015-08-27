@@ -2,8 +2,8 @@
 Contributors: tikendramaitry, rahulbrilliant2004
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=wpfruits@gmail.com&item_name=Like%20Dislike%20Counter%20Lite&item_number=WordPress.org%20Donation&currency_code=USD&lc=US
 Tags: Business Hours, Business Hours Widget, Business Plugin, Business widget, Working Hours, Opening Hours, Business Hours, Business Hours Opening plugin, Currently Open, Holidays Widget, Shortcode, Special Opening hours
-Requires at least: 3.0
-Tested up to: 4.2.4
+Requires at least: 3.8
+Tested up to: 4.3
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -29,18 +29,18 @@ With its super rich and very useful next generation features, Business Opening H
 * Opening Time and Closing Time
 * Highlight Current Day
 * Widget & Shortcode
-* World Time Zone Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249/?ref=sketchthemes" target="_blank">(PRO)</a>
-* Time Format Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Weekdays Label Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Display Closed Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Opening Time and Closing Time <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Add Unlimited Periods <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Highlight Current Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Widget & Shortcode <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Typography Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Announcement Setting  <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Notification Bar <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
-* Announcement Popup <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* World Time Zone Setting <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Time Format Setting <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Weekdays Label Setting <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Display Closed Day <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Opening Time and Closing Time <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Add Unlimited Periods <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Highlight Current Day <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Widget & Shortcode <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Typography Setting <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Announcement Setting  <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Notification Bar <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+* Announcement Popup <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
 So go ahead guys and get it now!
 
 = Business Opening Hours Pro =
@@ -86,8 +86,7 @@ User can go through the video instructions for installation and configuration.
 
 Thanks for using this plugin.
 
-For More Details please visit <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/
-" target="_blank">Business Opening Hours.</a>
+For More Details please visit <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">Business Opening Hours PRO.</a>
 
 == Frequently asked questions ==
 
