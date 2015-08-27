@@ -29,18 +29,18 @@ With its super rich and very useful next generation features, Business Opening H
 * Opening Time and Closing Time
 * Highlight Current Day
 * Widget & Shortcode
-* World Time Zone Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Time Format Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Weekdays Label Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Display Closed Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Opening Time and Closing Time <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Add Unlimited Periods <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Highlight Current Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Widget & Shortcode <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Typography Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Announcement Setting  <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Notification Bar <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
-* Announcement Popup <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* World Time Zone Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249/?ref=sketchthemes" target="_blank">(PRO)</a>
+* Time Format Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Weekdays Label Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Display Closed Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Opening Time and Closing Time <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Add Unlimited Periods <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Highlight Current Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Widget & Shortcode <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Typography Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Announcement Setting  <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Notification Bar <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
+* Announcement Popup <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249?ref=sketchthemes" target="_blank">(PRO)</a>
 So go ahead guys and get it now!
 
 = Business Opening Hours Pro =
