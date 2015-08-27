@@ -20,6 +20,8 @@ Manage all your business opening hours including office timings, shop hours and 
 Business Opening Hours work on neatly displayed time period given at the first place. The stylish time display gives a whole new look and dimension to your WordPress site. Business Opening Hours is such a finely developed plugin that not only keep a tab on your shop hours but also showcases your disciplined side while maintaining office timings.
 With its super rich and very useful next generation features, Business Opening Hours is must have plugin for every website dealing in any business.
 
+[vimeo https://vimeo.com/136721171]
+
 = Plugin Features =
 * WordPress Default Time Format 
 * WordPress Default Weekdays Label
@@ -27,7 +29,19 @@ With its super rich and very useful next generation features, Business Opening H
 * Opening Time and Closing Time
 * Highlight Current Day
 * Widget & Shortcode
-So go ahead guys and install it now!
+* World Time Zone Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Time Format Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Weekdays Label Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Display Closed Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Opening Time and Closing Time <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Add Unlimited Periods <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Highlight Current Day <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Widget & Shortcode <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Typography Setting <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Announcement Setting  <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Notification Bar <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+* Announcement Popup <a href="http://codecanyon.net/item/business-opening-hours-pro-plugin/12605249" target="_blank">(PRO)</a>
+So go ahead guys and get it now!
 
 = Business Opening Hours Pro =
 
@@ -64,6 +78,11 @@ So go ahead guys and install it now!
 1. Activate the plugin through the 'Plugins' menu in WordPress
 2. Activate the plugin via the 'Plugins' menu in WordPress, you'll automatically redirected to plugin admin panel.
 3. Plugin settings are located in 'Business Hours'.
+
+Thanks for using this plugin.
+
+User can go through the video instructions for installation and configuration.
+[vimeo https://vimeo.com/136721171]
 
 Thanks for using this plugin.
 
