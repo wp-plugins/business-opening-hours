@@ -41,27 +41,28 @@ With its super rich and very useful next generation features, Business Opening H
 * Announcement Setting  <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
 * Notification Bar <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
 * Announcement Popup <a href="https://sketchthemes.com/premium-plugins/business-opening-hours-pro-wordpress-plugin/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours" target="_blank">(PRO)</a>
+
 So go ahead guys and get it now!
 
 = Business Opening Hours Pro =
 
-* Business Opening Hours - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours <a href="http://demo.sketchthemes.com/business-opening-hours-pro/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Display Type All Days - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/all-days/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Display Type All Days <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/all-days/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Display Type Weekdays - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/weekdays/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Display Type Weekdays <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/weekdays/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Display Type Open Close - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/open-close/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Display Type Open Close <a href="http://demo.sketchthemes.com/business-opening-hours-pro/display-types/open-close/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Announcement Popup Blur Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-blur-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Announcement Popup Blur Effect <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-blur-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Announcement Popup Slide Left Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-left-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Announcement Popup Slide Left Effect <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-left-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Announcement Popup Slide Down Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-down-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Announcement Popup Slide Down Effect <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-slide-down-effect/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Announcement Popup Fade Effect - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-fade/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Announcement Popup Fade Effect <a href="http://demo.sketchthemes.com/business-opening-hours-pro/pop-up/pop-up-fade/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
-* Business Opening Hours Current Day Highlight - <a href="http://demo.sketchthemes.com/business-opening-hours-pro/day-highlight/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
+* Business Opening Hours Current Day Highlight <a href="http://demo.sketchthemes.com/business-opening-hours-pro/day-highlight/?utm_source=wporg&utm_medium=plugin&utm_campaign=Business_Opening_Hours">DEMO</a>
 
 == Features ==
 * WordPress Default Time Format 
