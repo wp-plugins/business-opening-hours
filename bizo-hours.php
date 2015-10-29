@@ -2,8 +2,8 @@
 /*
 	Plugin Name: Business Hours Lite
 	Plugin URI: http://www.sketchthemes.com
-	Description: Business Opening Hours Plugin
-	Version: 1.0.1
+	Description: Business Opening Hours Lite Plugin gives out the easiest ways to manage all your business opening hours including office timings,shop hours and store hours.The richly featured Business Opening Hours Lite performs well with various websites which are much concerned about maintaining time discipline.
+	Version: 1.0.2
 	Author: SketchThemes
 	Author URI: http://www.sketchthemes.com
 */
@@ -642,6 +642,7 @@ add_action( 'wp_before_admin_bar_render', 'bizohours_admin_custom_script' );
 
 /**** Include Business Hours Widget ****/
 include ('bizo-hours-widget.php');
+include ('bizo-hours-shortcode.php');
 
 /**
  * Load plugin textdomain.

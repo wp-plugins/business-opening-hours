@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Business Opening Hours Lite v1.0.0\n"
-"POT-Creation-Date: 2015-07-28 22:58+0530\n"
+"POT-Creation-Date: 2015-10-27 12:38+0530\n"
 "PO-Revision-Date: 2015-07-28 22:59+0530\n"
 "Last-Translator: \n"
 "Language-Team: SketchThemes <info@sketchthemes.com>\n"
@@ -9,94 +10,112 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.8.4\n"
 "X-Poedit-Basepath: .\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-KeywordsList: __;_e;_x\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../bizo-hours-widget.php:12 ../bizo-hours-widget.php:62
-#: ../bizo-hours.php:33
-msgid "Business Opening Hours"
-msgstr ""
-
-#: ../bizo-hours-widget.php:13
-msgid "Business Opening Hours Widget"
-msgstr ""
-
-#: ../bizo-hours-widget.php:35 ../bizo-hours-widget.php:110
+#: ../bizo-hours-shortcode.php:39 ../bizo-hours-widget.php:43
 msgid "Day"
 msgstr ""
 
-#: ../bizo-hours-widget.php:35 ../bizo-hours-widget.php:110
+#: ../bizo-hours-shortcode.php:39 ../bizo-hours-widget.php:43
 msgid "From"
 msgstr ""
 
-#: ../bizo-hours-widget.php:35 ../bizo-hours-widget.php:110
+#: ../bizo-hours-shortcode.php:39 ../bizo-hours-widget.php:43
 msgid "To"
 msgstr ""
 
-#: ../bizo-hours-widget.php:38 ../bizo-hours-widget.php:113
-#: ../bizo-hours.php:90
+#: ../bizo-hours-shortcode.php:45 ../bizo-hours-widget.php:47
+#: ../bizo-hours-widget.php:49 ../bizo-hours-widget.php:55
+#: ../bizo-hours-widget.php:61 ../bizo-hours-widget.php:67
+#: ../bizo-hours-widget.php:73 ../bizo-hours-widget.php:79
+#: ../bizo-hours-widget.php:85 ../bizo-hours.php:318
 msgid "Monday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:39 ../bizo-hours-widget.php:114
-#: ../bizo-hours.php:98
+#: ../bizo-hours-shortcode.php:49 ../bizo-hours-widget.php:53
+#: ../bizo-hours.php:326
 msgid "Tuesday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:40 ../bizo-hours-widget.php:115
-#: ../bizo-hours.php:106
+#: ../bizo-hours-shortcode.php:53 ../bizo-hours-widget.php:59
+#: ../bizo-hours.php:334
 msgid "Wednesday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:41 ../bizo-hours-widget.php:116
-#: ../bizo-hours.php:114
+#: ../bizo-hours-shortcode.php:57 ../bizo-hours-widget.php:65
+#: ../bizo-hours.php:342
 msgid "Thursday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:42 ../bizo-hours-widget.php:117
-#: ../bizo-hours.php:122
+#: ../bizo-hours-shortcode.php:61 ../bizo-hours-widget.php:71
+#: ../bizo-hours.php:350
 msgid "Friday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:43 ../bizo-hours-widget.php:118
-#: ../bizo-hours.php:130
+#: ../bizo-hours-shortcode.php:65 ../bizo-hours-widget.php:77
+#: ../bizo-hours.php:358
 msgid "Saturday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:44 ../bizo-hours-widget.php:119
-#: ../bizo-hours.php:138
+#: ../bizo-hours-shortcode.php:69 ../bizo-hours-widget.php:83
+#: ../bizo-hours.php:366
 msgid "Sunday"
 msgstr ""
 
-#: ../bizo-hours-widget.php:65
+#: ../bizo-hours-widget.php:13 ../bizo-hours-widget.php:102
+msgid "Business Opening Hours"
+msgstr ""
+
+#: ../bizo-hours-widget.php:14
+msgid "Business Opening Hours Widget"
+msgstr ""
+
+#: ../bizo-hours-widget.php:49 ../bizo-hours-widget.php:55
+#: ../bizo-hours-widget.php:61 ../bizo-hours-widget.php:67
+#: ../bizo-hours-widget.php:73 ../bizo-hours-widget.php:79
+#: ../bizo-hours-widget.php:85
+msgid "Close"
+msgstr ""
+
+#: ../bizo-hours-widget.php:105
 msgid "Title:"
 msgstr ""
 
-#: ../bizo-hours.php:32
+#: ../bizo-hours.php:33
 msgid "Settings Admin"
 msgstr ""
 
-#: ../bizo-hours.php:49
-msgid "Business Opening Hours Settings"
+#: ../bizo-hours.php:34
+msgid "Business Hours"
 msgstr ""
 
-#: ../bizo-hours.php:82
+#: ../bizo-hours.php:51
+msgid "Business Hours Settings"
+msgstr ""
+
+#: ../bizo-hours.php:302
+msgid "Select Timezone"
+msgstr ""
+
+#: ../bizo-hours.php:310
 msgid "Time Format"
 msgstr ""
 
-#: ../bizo-hours.php:146
-msgid "Genrated Shortcode"
-msgstr ""
-
-#: ../bizo-hours.php:154
+#: ../bizo-hours.php:375
 msgid "Highlight Current Day"
 msgstr ""
 
-#: ../bizo-hours.php:231
+#: ../bizo-hours.php:391
+msgid "Genrated Shortcode"
+msgstr ""
+
+#: ../bizo-hours.php:462
 msgid ""
-"The saved settings will work in the Business Opening Hours Widget. You can "
-"also use Genrated Shortcode in the page or post."
+"<div id=\"bizohour-setting-note\"><p><br/>The saved settings will work in "
+"the Business Hours Widget.You can also use Genrated Shortcode in the page "
+"or post.</p></div><hr/>"
 msgstr ""
